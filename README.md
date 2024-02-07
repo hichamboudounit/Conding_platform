@@ -1,4 +1,4 @@
-# Platform Solutions
+# Coding Platform
 
 This repository contains my solutions to various coding problems from LeetCode, HackerRank, Codeforces, Stratascratch, and other platforms. Each problem is solved in a separate file within the respective directories.
 
