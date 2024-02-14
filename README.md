@@ -7,7 +7,7 @@ This repository contains my solutions to various coding problems from LeetCode, 
 - `LeetCode`: Contains solutions to problems from LeetCode.
 - `HackerRank`: Contains solutions to problems from HackerRank.
 - `Stratascratch`: Contains solutions to problems from Stratascratch.
-...
+- `...`
 
 ## Usage
 
